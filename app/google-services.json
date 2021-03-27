@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "103712749140",
+    "project_id": "room-83959",
+    "storage_bucket": "room-83959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103712749140:android:636d218299bdd99d941fc1",
+        "android_client_info": {
+          "package_name": "com.example.room_filteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103712749140-tl6j6irfp9mjuhg4dtnoqlpfnnbqqc6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.room_filteer",
+            "certificate_hash": "481c408f85833c542fffd1bcc0658f14eaef04cb"
+          }
+        },
+        {
+          "client_id": "103712749140-og50v985fbp32q2tt169cc5u9u6a3cc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgTe77Jo_szhdNQuJHhzmBK7hT4mGipY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103712749140-og50v985fbp32q2tt169cc5u9u6a3cc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6645174391699661~9045772853"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103712749140:android:2f076cffb32981fa941fc1",
+        "android_client_info": {
+          "package_name": "com.example.room_payload5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103712749140-3luej2qmtnhlm64m6qgk5397l9ilj5sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.room_payload5",
+            "certificate_hash": "481c408f85833c542fffd1bcc0658f14eaef04cb"
+          }
+        },
+        {
+          "client_id": "103712749140-og50v985fbp32q2tt169cc5u9u6a3cc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgTe77Jo_szhdNQuJHhzmBK7hT4mGipY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103712749140-og50v985fbp32q2tt169cc5u9u6a3cc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103712749140:android:9651b8c755a95e63941fc1",
+        "android_client_info": {
+          "package_name": "com.example.room_thebes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103712749140-g1hitreaal83um2d7dn5d8i04i73hqvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.room_thebes",
+            "certificate_hash": "fd9286cd6dc8b7a3e8f0b9bc1444e9d2d9598f1c"
+          }
+        },
+        {
+          "client_id": "103712749140-og50v985fbp32q2tt169cc5u9u6a3cc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgTe77Jo_szhdNQuJHhzmBK7hT4mGipY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103712749140-og50v985fbp32q2tt169cc5u9u6a3cc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6645174391699661~2821407171"
+    }
+  ],
+  "configuration_version": "1"
+}

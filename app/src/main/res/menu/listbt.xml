@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="MissingDefaultResource">
+
+    <item
+        android:id="@+id/myhom1"
+        android:icon="@drawable/ic_apot"
+        android:title="حول"
+        app:showAsAction="ifRoom"></item>
+
+    <item android:id="@+id/myhom2"
+        android:title="مسابقات"
+        android:icon="@drawable/ic_baseline_outlined_flag_24"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/myhom0"
+        android:title=""
+        ></item>
+    <item android:id="@+id/myhom3"
+        android:title="تطبيقات"
+        android:icon="@drawable/ic_apk"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/myhom4"
+        android:title="متجر"
+        android:icon="@drawable/ic_shop"
+        app:showAsAction="always"
+        ></item>
+
+    <group />
+</menu>

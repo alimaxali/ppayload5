@@ -397,7 +397,7 @@ public class MainActivity extends AppCompatActivity implements RewardedVideoAdLi
 
 
     }
-    int timmm=0;
+    int timmm=00;
     int iii = 0;
     void seead(){
 
